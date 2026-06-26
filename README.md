@@ -21,7 +21,7 @@ mobile, web, and desktop from a single codebase. Flutter works with existing
 code, is used by developers and organizations around the world, and is free and
 open source.
 
-## Documentation
+## Documentation 
 
 * [Install Flutter](https://docs.flutter.dev/get-started)
 * [Flutter documentation](https://docs.flutter.dev)
@@ -43,7 +43,7 @@ For example, when installed from GitHub (as opposed to from a prepackaged
 archive), the Flutter tool will download the Dart SDK from Google servers
 immediately when first run, as it is used to execute the `flutter` tool itself.
 This will also occur when Flutter is upgraded (e.g. by running the `flutter
-upgrade` command).
+upgrade ` command).
 
 ## About Flutter
 
@@ -99,7 +99,7 @@ is easy, with support for both FFI ([on Android][Android FFI], [on iOS][iOS FFI]
 Flutter is a fully open-source project, and we welcome contributions.
 Information on how to get started can be found in our
 [contributor guide](CONTRIBUTING.md).
-
+aarushlohit
 [flutter.dev]: https://flutter.dev
 [Discord instructions]: ./docs/contributing/Chat.md
 [Discord badge]: https://img.shields.io/discord/608014603317936148?logo=discord
